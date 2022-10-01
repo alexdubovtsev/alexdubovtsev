@@ -20,7 +20,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgt
 
 - :zap: I’m currently learning React framework
 
-- :mailbox:How to reach me: [<img src='https://img.icons8.com/color/344/gmail--v1.png' align="center" alt='gmail' height='40'>](alexdubovtsev.it@gmail.com) [<img src='https://img.icons8.com/color/344/vk-circled--v5.png' align="center" alt='vk' height='40'>](https://vk.com/id160722833) 
+- :mailbox: How to reach me: <a href="mailto:alexdubovtsev.it@gmail.com"><img src='https://img.icons8.com/color/344/gmail--v1.png' align="center" alt='gmail' height='40'></a><a href="https://vk.com/id160722833"><img src='https://img.icons8.com/color/344/vk-circled--v5.png' align="center" alt='vk' height='40'></a> 
 
 ---
 
